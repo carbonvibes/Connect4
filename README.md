@@ -4,7 +4,7 @@ Connect4 is a C implementation of the classic game with a twist—now in a singl
 
 ## Overview
 
-The objective remains familiar: strategically drop colored discs into columns to connect four in a row horizontally, vertically, or diagonally. The reduced grid size maintains simplicity while introducing heightened strategic depth. As a solo player, your challenge is to anticipate moves and create winning combinations against the artificial intelligence opponent.
+The objective remains familiar: strategically drop colored discs into columns to connect four in a row horizontally, vertically, or diagonally. The reduced grid size maintains simplicity while introducing heightened strategic depth. As a solo player, your challenge is anticipating moves and creating winning combinations against the artificial intelligence opponent.
 
 ## Features
 
@@ -14,8 +14,8 @@ The objective remains familiar: strategically drop colored discs into columns to
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
-2. Compile the code: `gcc connect4.c -o connect4`
+1. Clone the repository: `git clone [https://github.com/carbonvibes/Connect4.git](https://github.com/carbonvibes/Connect4.git)`
+2. Compile the code: `gcc -std=c17 Connect4.c -o connect4`
 3. Run the game: `./connect4`
 
 Feel free to customize and enhance the game as you see fit. Enjoy the quick-thinking experience of Connect4 in this delightful single-player puzzle challenge.
