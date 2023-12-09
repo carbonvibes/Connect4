@@ -14,7 +14,7 @@ The objective remains familiar: strategically drop colored discs into columns to
 
 ## Getting Started
 
-1. Clone the repository: `git clone [https://github.com/carbonvibes/Connect4.git](https://github.com/carbonvibes/Connect4.git)`
+1. Clone the repository: `git clone https://github.com/carbonvibes/Connect4.git`
 2. Compile the code: `gcc -std=c17 Connect4.c -o connect4`
 3. Run the game: `./connect4`
 
