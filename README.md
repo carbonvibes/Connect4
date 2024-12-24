@@ -21,7 +21,7 @@ The objective remains familiar: strategically drop colored discs into columns to
 
 ## Gameplay Images
 
-https://github.com/carbonvibes/Connect4/blob/main/Gameplay1.png
 ![Gameplay 1](https://github.com/carbonvibes/Connect4/blob/main/Gameplay1.png)
+![Gameplay 2](https://github.com/carbonvibes/Connect4/blob/main/Gameplay2.png)
 
 Feel free to customize and enhance the game as you see fit. Enjoy the quick-thinking experience of Connect4 in this delightful single-player puzzle challenge.
