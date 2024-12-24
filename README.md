@@ -19,4 +19,9 @@ The objective remains familiar: strategically drop colored discs into columns to
 3. Compile the code: `gcc -std=c17 Connect4.c -o connect4`
 4. Run the game: `./connect4`
 
+## Gameplay Images
+
+https://github.com/carbonvibes/Connect4/blob/main/Gameplay1.png
+![Gameplay 1]([images/example.png](https://github.com/carbonvibes/Connect4/blob/main/Gameplay1.png) "This is a local image")
+
 Feel free to customize and enhance the game as you see fit. Enjoy the quick-thinking experience of Connect4 in this delightful single-player puzzle challenge.
